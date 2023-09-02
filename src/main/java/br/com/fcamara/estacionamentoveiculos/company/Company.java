@@ -1,4 +1,4 @@
-package br.com.fcamara.estacionamentoveiculos.estabelecimento;
+package br.com.fcamara.estacionamentoveiculos.company;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
